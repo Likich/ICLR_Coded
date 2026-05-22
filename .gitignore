@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.venv/
+data/private/
+*_with_text.csv
+*_with_text.parquet
