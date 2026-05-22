@@ -1,8 +1,8 @@
-# ICLR Longitudinal Review Code Dataset, 2020--2025
+# ICLR Longitudinal Review Code Dataset, 2020-2025
 
 ## Description
 
-This release contains derived LLM-generated open and axial codes for ICLR peer reviews from 2020--2025. The dataset provides segment-level generated qualitative codes, semantically consolidated canonical labels, axial cluster assignments, paper-safe entities, and aggregate metadata for longitudinal analysis of peer-review discourse.
+This release contains derived LLM-generated open and axial codes for ICLR peer reviews from 2020-2025. The dataset provides segment-level generated qualitative codes, semantically consolidated canonical labels, axial cluster assignments, paper-safe entities, and aggregate metadata for longitudinal analysis of peer-review discourse.
 
 ## Source
 
@@ -10,7 +10,7 @@ The source material is OpenReview-hosted ICLR peer reviews. This release does no
 
 ## Scale
 
-- Years: 2020--2025
+- Years: 2020-2025
 - Reviews: 30,000
 - Retained review segments: 39,979
 - Segment types: `full_review`, `strength`, `weakness`
@@ -60,7 +60,7 @@ This dataset is intended for aggregate research on peer-review discourse, qualit
 
 ## Limitations
 
-The dataset covers ICLR only. Section structure is imbalanced across years: 2020--2023 mostly contain full-review segments, while explicit strengths and weaknesses are concentrated in 2024--2025. The labels are LLM-generated and are not ground truth. Seven retained rows with missing generated labels are kept for count consistency and marked `uncoded`. The manual reference subset is small and single-annotator.
+The dataset covers ICLR only. Section structure is imbalanced across years: 2020-2023 mostly contain full-review segments, while explicit strengths and weaknesses are concentrated in 2024-2025. The labels are LLM-generated and are not ground truth. Seven retained rows with missing generated labels are kept for count consistency and marked `uncoded`. The manual reference subset is small and single-annotator.
 
 ## Citation
 
