@@ -1,0 +1,26 @@
+{
+  "n_axial_clusters": 692,
+  "n_canonical_codes": 35212,
+  "n_canonical_codes_excluding_uncoded": 35211,
+  "n_cluster_metadata_rows": 692,
+  "n_codebook_rows": 35212,
+  "n_manual_reference_segments": 132,
+  "n_papers": 14778,
+  "n_reviews": 30000,
+  "n_segments": 39979,
+  "raw_text_included": false,
+  "release_name": "ICLR Longitudinal Review Code Dataset, 2020--2025",
+  "segment_type_counts": {
+    "full_review": 20021,
+    "strength": 9979,
+    "weakness": 9979
+  },
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ]
+}
